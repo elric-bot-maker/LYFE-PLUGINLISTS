@@ -13,7 +13,7 @@
 
 <h2 align="center">  ➠ ʜᴏᴡ ᴛᴏ ɪɴsᴛᴀʟʟ ᴘʟᴜɢɪɴ
 </h1>
-<!CODED BY MASK SER>
+<!CODED BY ELRIC>
 
 ✯ <ʜᴀɴᴅʟᴇʀ> ᴘʟᴜɢɪɴ <ᴘʟᴜɢɪɴ ʟɪɴᴋ>
 <h3 align="center">  ➠ ʜᴏᴡ ᴛᴏ ʀᴇᴍᴏᴠᴇ ᴘʟᴜɢɪɴ</h1>
@@ -242,7 +242,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 **Use by Given format** <br/>
 Example
 ```js
-.msfor ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝Manu࿐⁩;⇆ㅤ ||◁ㅤ❚❚ㅤ▷||ㅤ ↻;01:06 ━━━━⬤─────── 04:05;111111111;111111111111111111;https://instagram.com;https://wa.me/917356159070;https://i.imgur.com/soghNME.jpeg;https://i.imgur.com/Y1MNRWF.jpeg;120363044083247727@g.us
+.msfor ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝Manu࿐⁩;⇆ㅤ ||◁ㅤ❚❚ㅤ▷||ㅤ ↻;01:06 ━━━━⬤─────── 04:05;111111111;111111111111111111;https://instagram.com;https://wa.me/917356486821;https://i.imgur.com/soghNME.jpeg;https://i.imgur.com/Y1MNRWF.jpeg;120363044083247727@g.us
 ```
 <br />
 <br />
@@ -2180,4 +2180,4 @@ __________________________________
 ### ᴛʜɪs ʙʟᴏɢɢᴇʀ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ✎<br />
 ◨ ᴍᴀsᴋ sᴇʀ◧ <br />
 
- ©Lyfe 00011 USER BOT
+ ©ELRICMD 00011 USER BOT
