@@ -141,7 +141,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 https://gist.github.com/mask-sir/72703ea0370cb35ddb203e3b5a119fd6
 ```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ :ADD TEXT TO YOUR PHOTO <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : 「𝛯𝐋𝐑𝐈𝐂𖫛𝐗𝟑」whatsapp-bot-md
 <br />
 <br />
 <h4 align="center">  ᐉMTAKE  </h1>
@@ -384,7 +384,7 @@ https://gist.github.com/Viz-Zer/546ddc9b1755e11e0250c3488e77d642
 sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 <br />
 <br />
-<h4 align="center">  ᐉOWNER  </h1>
+<h4 align="center">  ᐉ「𝛯𝐋𝐑𝐈𝐂𖫛𝐗𝟑」 </h1>
 
  ᴄʀᴇᴀᴛᴇᴅ ʙʏ :<a href="http://www.github.com/mask-sir">MASK SER</a>
 
@@ -453,7 +453,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
 https://gist.github.com/mask-sir/a9ee197e0c91b272e28c6aaaf3400aef
 ```
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : CONVERT EMOJI TO PNG <br /> 
-sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011-whatsapp-bot-md
+sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : 「𝛯𝐋𝐑𝐈𝐂𖫛𝐗𝟑」-bot-md
 <br />
 <br />
 <h4 align="center">  ᐉ STATUS SAVER(#) </h1>
